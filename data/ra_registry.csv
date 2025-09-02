@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,RA_Severity_Score,Flare_Up_History,Drug_Response,Genetic_Markers,Consent_Status
+RA001,45,Female,7,3,Moderate,HLA-DRB1,Yes
+RA002,52,Male,5,1,Good,PTPN22,Yes
+RA003,38,Female,9,5,Poor,"HLA-DRB1,PTPN22",No
+RA004,60,Male,6,2,Moderate,HLA-DRB1,Yes
+RA005,41,Female,8,4,Poor,PTPN22,Yes
